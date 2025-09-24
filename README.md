@@ -1,5 +1,5 @@
 
-# Drug traffiking detection
+# Drug trafficking detection
 A multi-platform drug abuse detection system using social media scraping and machine learning comparison.
 
 ## 📖 Table of Contents
